@@ -6,3 +6,7 @@ Este repositorio fue creado como parte del taller de Control de Versiones de la 
 ## Integrantes
 - Maria Catalina Coronel Diaz
 - Tatiana Espinosa Rojas
+
+## Tecnologías usadas
+- HTML
+- Git
