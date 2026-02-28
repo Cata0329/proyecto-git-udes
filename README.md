@@ -12,7 +12,4 @@ Este repositorio fue creado como parte del taller de Control de Versiones de la 
 - Git
 
 ## Estado del Proyecto
-Proyecto en desarrollo activo - Version 1.0
-
-## Estado del Proyecto
-En construccion - Taller de Git UDES 2026
+Version LOCAL - Taller Git UDES 2026
