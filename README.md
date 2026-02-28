@@ -10,3 +10,6 @@ Este repositorio fue creado como parte del taller de Control de Versiones de la 
 ## Tecnologías usadas
 - HTML
 - Git
+
+## Estado del Proyecto
+Proyecto en desarrollo activo - Version 1.0
